@@ -23,7 +23,7 @@ export default function AboutScreen() {
           
           <View style={styles.contentBox}>
             <Text style={styles.text}>
-              Cette application a été développée par Skandar Gharbi. Elle permet d'apprendre les bases des systèmes embarqués de manière ludique à travers des quiz interactifs.
+              Cette application a été développée par Skandar Gharbi. Il permet d'apprendre les bases des systèmes embarqués de manière ludique à travers des quiz interactifs.
             </Text>
           </View>
           
